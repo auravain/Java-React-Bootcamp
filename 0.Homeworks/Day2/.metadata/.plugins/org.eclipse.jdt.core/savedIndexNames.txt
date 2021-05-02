@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\ilknur\Desktop\Java-React-Bootcamp\0.Homeworks\Day2\.metadata\.plugins\org.eclipse.jdt.core
-3623557781.index
-1695662857.index
