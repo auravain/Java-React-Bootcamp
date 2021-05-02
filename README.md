@@ -3,7 +3,9 @@
 <h3 align="center"> Part 1 - Java </h3>
 <h3 align="center"> Part 2 - React </h3>
 
+<h3 align="center"> :computer:Lecture Class: <a href="https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87&ab_channel=EnginDemiro%C4%9F">Youtube</a> </h3>
 <h3 align="center"> :bust_in_silhouette:Instructor: <a href="https://github.com/engindemirog">Engin Demirog</a> </h3>
+<h3 align="center"> :books:Course Materials: <a href="https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2">Kodlama.io</a> </h3>
 
 <hr>
 <p align="center">
