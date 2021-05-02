@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\ilknur\Desktop\Java-React-Bootcamp\.metadata\.plugins\org.eclipse.jdt.core

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\ilknur\Desktop\Java-React-Bootcamp\Homeworks\Day2\.metadata\.plugins\org.eclipse.jdt.core
+1695662857.index
+3623557781.index
