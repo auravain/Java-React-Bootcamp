@@ -1,4 +1,4 @@
-<h2 align="center"> :computer: Java + React Camp :computer: </h2>
+<h2 align="center"> :computer: Java + React Bootcamp :computer: </h2>
 
 <h3 align="center"> Part 1 - Java </h3>
 <h3 align="center"> Part 2 - React </h3>
@@ -40,7 +40,7 @@
 - Redirect to quiz system
 
 
-#### Day 4
+#### :white_check_mark:Day 4
 
 - Mastering object oriented programming with JAVA 1
 - Workshops
