@@ -11,7 +11,7 @@
 </p>
 <hr>
 
-### Camp Program
+### Bootcamp Program
 
 
 #### :white_check_mark:Day 1
