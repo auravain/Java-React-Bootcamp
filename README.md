@@ -49,7 +49,7 @@
 - Giving homework
 - Redirect to quiz system
 
-#### Day 5
+#### :white_check_mark:Day 5
 
 - Specialization in object oriented programming with JAVA 2
 - Workshops
