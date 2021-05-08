@@ -56,7 +56,7 @@
 - Giving homework
 - Redirect to quiz system
 
-#### Day 6
+#### :white_check_mark:Day 6
 
 - Multi-layered enterprise architectures
 - Workshops
