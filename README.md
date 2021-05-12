@@ -143,4 +143,4 @@
 - Giving homework
 - Redirect to quiz system
 
-<h3 align="center"> <a href="https://github.com/auravain/Java-Kamp"> Page Up! </a> </h3>
+<h3 align="center"> <a href="https://github.com/auravain/Java-React-Bootcamp"> Page Up! </a> </h3>
