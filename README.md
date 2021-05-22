@@ -64,7 +64,7 @@
 - Redirect to quiz system
 
 
-#### Day 7
+#### :white_check_mark:Day 7
 
 - Getting started with Spring Boot
 - Workshops
