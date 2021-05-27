@@ -72,7 +72,7 @@
 - Redirect to quiz system
 
 
-#### Day 8
+#### :white_check_mark:Day 8
 
 - Spring JPA / Hibernate
 - Workshops
