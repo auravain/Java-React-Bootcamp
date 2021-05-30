@@ -80,7 +80,7 @@
 - Redirect to quiz system
 
 
-#### Day 9
+#### :white_check_mark:Day 9
 
 - Spring AOP
 - Workshops
