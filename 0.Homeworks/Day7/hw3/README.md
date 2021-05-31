@@ -1,24 +1,33 @@
 ## İçerik
 
-Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
+**Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.**
 
-**Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.**
+Kabul Kriterleri:
 
-* Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.
-* Parola en az 6 karakterden oluşmalıdır.
-* E-posta alanı e-posta formatında olmalıdır. (Regex ile yapınız. Araştırma konusu)
-* E-Posta daha önce kullanılmamış olmalıdır.
-* Ad ve soyad en az iki karakterden oluşmalıdır.
-* Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)
-* Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
-* Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+* Kayıt sırasında kullanıcıdan ad, soyad, tcno, doğum yılı, e-Posta, şifre, şifre tekrarı bilgileri istenir.
+* Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
+* Mernis doğrulaması yapılarak sisteme kayıt gerçekleştirilir.
+* Doğrulama geçerli değilse kullanıcı bilgilendirilir.
+* Daha önce kayıtlı bir e-posta veya tcno var ise kayıt gerçekleşmez. Kullanıcı bilgilendirilir.
+* Kayıdın gerçekleşmesi için e-posta doğrulaması gerekir.
 
-**Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)**
+**Req 2 : İş verenler sisteme kayıt olabilmelidir.**
 
-* İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
-* Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+Kabul Kriterleri:
 
-**Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.**
+* Kayıt sırasında kullanıcıdan şirket adı, web sitesi, web sitesi ile aynı domaine sahip e-posta, telefon, şifre, şifre tekrarı bilgileri istenir. Burada amaç sisteme şirket olmayanların katılmasını engellemektir.
+* Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
+Şirket kayıtları iki şekilde doğrulanır. Kayıdın gerçekleşmesi için e-posta doğrulaması gerekir. HRMS personelinin (bizim :)) onayı gerekmektedir.
+* Daha önce kayıtlı bir e-posta var ise kayıt gerçekleşmez. Kullanıcı bilgilendirilir.
 
-* E-posta ve parola zorunludur
-* Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+**Req 3 : Sisteme genel iş pozisyonu isimleri eklenebilmelidir. Örneğin Software Developer, Software Architect.**
+
+Kabul Kriterleri:
+
+* Bu pozisyonlar tekrar edemez. Kullanıcı uyarılır.
+
+**Req 4 : İş verenler listelenebilmelidir. (Sadece tüm liste)**
+
+**Req 5 : İş arayanlar listelenebilmelidir. (Sadece tüm liste)**
+
+**Req 6 : İş pozisyonları listelenebilmelidir. (Sadece tüm liste)**
