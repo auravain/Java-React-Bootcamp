@@ -88,7 +88,7 @@
 - Redirect to quiz system
 
 
-#### Day 10
+#### :white_check_mark:Day 10
 
 - Spring Security
 - Workshops
