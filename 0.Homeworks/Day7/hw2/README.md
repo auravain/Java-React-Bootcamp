@@ -1,3 +1,4 @@
 
-<h3> - Veri tabanı tasarımı konusunda yandaki ücretsiz kursu izleyiniz: 
-  <a href="https://www.udemy.com/course/veritabani-tasarimi">Udemy</a> </h3>
+<h3> JPA repository ile kendi özel metotlarınızı yazmanız çok kolaydır.<br> 
+  Yandaki makaleyi inceleyiniz: 
+  <a href="https://www.baeldung.com/spring-data-derived-queries">Makale</a> </h3>
