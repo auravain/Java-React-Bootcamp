@@ -96,7 +96,7 @@
 - Redirect to quiz system
 
 
-#### Day 11
+#### :white_check_mark:Day 11
 
 - Javascript
 - Workshops
