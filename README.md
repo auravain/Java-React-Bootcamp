@@ -1,7 +1,7 @@
 <h2 align="center"> :computer: Java + React Bootcamp :computer: </h2>
 
-<h3 align="center"> Part 1 - Java </h3>
-<h3 align="center"> Part 2 - React </h3>
+<h3 align="center"> :ballot_box_with_check:Part 1 - Java </h3>
+<h3 align="center"> :black_square_button:Part 2 - React </h3>
 
 <h3 align="center"> :computer:Lecture Class: <a href="https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87&ab_channel=EnginDemiro%C4%9F">Youtube</a> </h3>
 <h3 align="center"> :bust_in_silhouette:Instructor: <a href="https://github.com/engindemirog">Engin Demirog</a> </h3>
