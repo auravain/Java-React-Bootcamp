@@ -104,7 +104,7 @@
 - Redirect to quiz system
 
 
-#### Day 12
+#### :white_check_mark:Day 12
 
 - React Basics 1
 - Workshops
