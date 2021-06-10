@@ -30,7 +30,7 @@ public class ProductsController {
 		this.iProductService = iProductService;
 	}
 
-	@GetMapping("/getall")
+	@GetMapping("/getAll")
 	public DataResult<List<Product>> getAll(){
 		return this.iProductService.getAll();
 	}

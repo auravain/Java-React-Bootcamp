@@ -14,11 +14,12 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 
-@Data
+
 @Entity
 @Table(name="products")
 @AllArgsConstructor
 @NoArgsConstructor
+@Data
 public class Product {
 	
 	@Id
