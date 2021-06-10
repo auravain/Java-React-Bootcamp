@@ -20,7 +20,7 @@ export default function ProductDetail() {
 					<Card.Content>
 						<Image floated="right" size="mini" src="/images/avatar/large/steve.jpg" />
 						<Card.Header>{product.productName}</Card.Header>
-						<Card.Meta>{product.categoryName}</Card.Meta>
+						<Card.Meta>{product.category.categoryName}</Card.Meta>
 						<Card.Description>
 							Steve wants to add you to the group <strong>best friends</strong>
 						</Card.Description>
