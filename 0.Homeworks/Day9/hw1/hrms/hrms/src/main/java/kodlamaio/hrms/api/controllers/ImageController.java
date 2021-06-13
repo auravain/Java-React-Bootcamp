@@ -37,5 +37,10 @@ public class ImageController {
 		return this.imageService.add(image, imageFile);
 		
 	}
+	
+	 @PostMapping("/delete")
+		public Result delete(@RequestParam("id") int id){
+		return this.imageService.delete(id);
+		}
 
 }
