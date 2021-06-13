@@ -33,33 +33,4 @@ public class Candidates extends User {
 	@Column(name = "birth_year")
 	private int birthYear;
 
-	public String getNationalId() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	public String getFirstName() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	public String getLastName() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	public int getBirthYear() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	public String getEmail() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	public String getPassword() {
-		// TODO Auto-generated method stub
-		return null;
-	}
 }

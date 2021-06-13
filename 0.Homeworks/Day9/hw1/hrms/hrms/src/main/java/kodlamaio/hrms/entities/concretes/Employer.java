@@ -42,18 +42,4 @@ public class Employer extends User{
     @OneToMany(mappedBy = "employer")
     private List<JobPost> jobPost;
 
-	public String getEmail() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	public String getPassword() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	public void setConfirmation(boolean b) {
-		// TODO Auto-generated method stub
-		
-	}
 }
