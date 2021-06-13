@@ -42,7 +42,6 @@ public class Resume {
 	@Column(name= "social_media_links")
 	private String socialMediaLinks;
 
-	
 	@Column(name= "starting_date")
 	private LocalDate startingDate = LocalDate.now();
 
