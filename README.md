@@ -112,7 +112,7 @@
 - Redirect to quiz system
 
 
-#### Day 13
+#### :white_check_mark:Day 13
 
 - React Basics 2
 - Workshops
