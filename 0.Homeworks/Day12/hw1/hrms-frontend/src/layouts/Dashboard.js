@@ -18,7 +18,6 @@ export default function Dashboard() {
 					<Grid.Column width={14}>
 						<Candidates />
 						<Employers />
-						<JobPosts />
 						<Route exact path="/" component={JobPosts} />
 						<Route exact path="/employers" component={Employers} />
 						<Route exact path="/candidates" component={Candidates} />
